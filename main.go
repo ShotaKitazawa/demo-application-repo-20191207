@@ -35,6 +35,7 @@ func main() {
 		case *slack.MessageEvent:
 			if ev.Msg.BotID != botID {
 				client.PostMessage(ev.Channel, slack.MsgOptionText(ev.Msg.Text, false))
+				client.PostMessage(ev.Channel, slack.MsgOptionText(ev.Msg.Text, false))
 			}
 		}
 	}
