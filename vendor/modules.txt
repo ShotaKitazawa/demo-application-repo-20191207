@@ -1,0 +1,9 @@
+# github.com/gorilla/websocket v1.2.0
+github.com/gorilla/websocket
+# github.com/nlopes/slack v0.6.1-0.20191106133607-d06c2a2b3249
+github.com/nlopes/slack
+github.com/nlopes/slack/internal/errorsx
+github.com/nlopes/slack/internal/timex
+github.com/nlopes/slack/slackutilsx
+# github.com/pkg/errors v0.8.0
+github.com/pkg/errors
